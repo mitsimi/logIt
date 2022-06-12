@@ -9,4 +9,3 @@ Currently are the following implemented:
 - [ ] JSON
 - [ ] Graylog
 - [ ] InfluxDB
-
