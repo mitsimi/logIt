@@ -1,4 +1,4 @@
-# GoLogIt
+# LogIt
  
 >:warning: This package is currently under heavy construction! :warning:
 
