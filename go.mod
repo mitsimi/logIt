@@ -1,3 +1,3 @@
-module github.com/PredexD/logIt
+module github.com/mitsimi/logIt
 
 go 1.18
