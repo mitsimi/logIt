@@ -1,3 +1,4 @@
+[![Dependency Review](https://github.com/mitsimi/logIt/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/mitsimi/logIt/actions/workflows/dependency-review.yml)
 # LogIt
  
 >:warning: This package is currently under heavy construction! :warning:
